@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NDJSec
 - 👀 I’m interested in Cybersecurity and Computer Networking. However, I enjoy all things IT and always look for a good challenge.
-- 🌱 I’m currently learning all things IT and Cybersecurity. Currently I am studing for my CCNA. 
+- 🌱 I’m currently learning all things IT and Cybersecurity. Currently I am studing for my Security+ and CySA+. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at ndjsec13@gmail.com. 
 
